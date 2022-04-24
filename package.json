@@ -1,0 +1,32 @@
+{
+  "name": "react-native-highlight-word",
+  "version": "1.0.3",
+  "description": "this package is use for hightlighting words/substrings from paragraph",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-highlight-word",
+    "word",
+    "highlight-word",
+    "selected-word",
+    "pressable-word",
+    "bold-word"
+  ],
+  "author": {
+    "name": "Anju",
+    "email": "anjubaladev@gmail.com"
+  },
+  "homepage": "https://github.com/anjubala-dev/eact-native-highlight-word.git#readme",
+  "bugs": {
+    "url": "https://github.com/anjubala-dev/eact-native-highlight-word.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjubala-dev/eact-native-highlight-word.git"
+  },
+  "license": "ISC"
+}
